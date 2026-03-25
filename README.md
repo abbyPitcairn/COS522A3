@@ -4,9 +4,13 @@ This is a simple neural network program for COS 522, Assignment 3.
 
 ### How to Run:
 
-Install requirements, then run the command:
+Make sure you are in the directory 'COS522A3'. Install requirements, then run the main script.
+
+You can use the following commands:
 
 ```
+cd COS522A3
+python requirements.txt
 python A3.py
 ```
 
