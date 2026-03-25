@@ -16,7 +16,7 @@ python A3.py
 
 ### Data:
 
-The data here is purely for example. Each row has five numerical features and two categorical, and each has one label [A, B, C]. For categorical features, we employ one-hot encoding to avoid learning false correlations. 
+The data here is purely for example. Each row has five numerical features and two categorical, and each has one multi-class label [A, B, C]. For categorical features, we employ one-hot encoding to avoid learning false correlations. 
 
 **Example Data:**
 
