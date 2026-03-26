@@ -10,7 +10,7 @@ You can use the following commands:
 
 ```
 cd COS522A3
-python requirements.txt
+pip install -r requirements.txt
 python A3.py
 ```
 
