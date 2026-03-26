@@ -22,6 +22,9 @@ The data here is purely for example. Each row has five numerical features and tw
 | 68 | 39 | 196 | 996 | -118 | Blue | Medium | A |
 | 3 | -76 | 69 | 564 | -206 | Green | Small | C |
 
+### Functionality:
+
+This is not a full training pipeline. This code only implements a custom dataloader class to create a training set and then prints one batch. In this code, batch size = 4.
 
 ### Author:
 
